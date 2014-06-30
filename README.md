@@ -19,3 +19,6 @@ you can find the source to compile for other systems in `src/jvrpn`.
 [VRPN website](http://www.cs.unc.edu/Research/vrpn/)
 
 [Original Android code on GitHub](https://github.com/rpavlik/vrpn/tree/master/vrpn_android)
+---
+
+Alexander Morosow, 2014
